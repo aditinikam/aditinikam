@@ -1,45 +1,66 @@
-<h1>Hey there, I'm Aditi Nikam!!</h1>
+# Hey there, I'm Aditi Nikam 👋
 
+## 🚀 About Me
+I’m a **Master of Computer Science student at UIUC** with a B.Tech in Computer Engineering from Vishwakarma Institute of Information Technology, Pune.  
+My interests lie in **AI/ML, Natural Language Processing, Cloud Computing, and Android Development**.  
 
-## About me:
-I am a CS student, studying in Vishwakarma Institute of Information Technology, Pune (TY B-Tech). I have interests in Android Development, Machine Learning and Debugging. <br />
-Perseptive, Quick learner, Collaborator
+✨ Traits: Perseptive, Quick Learner, Collaborator, and Problem Solver.  
 
+---
 
-## What I know:
-<code><a href="#" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/63449205/115969683-c1fb2200-a55b-11eb-9d13-999d6d43bb3b.png"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://agilitics.sg/pub/media/catalog/product/p/y/python_1_.png"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://cdn.vox-cdn.com/thumbor/VoXJ8IaxCj5_U-366JhtUHLkdQ0=/0x0:640x427/1400x1050/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/android/android-icon.svg"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/springio/springio-ar21.svg"></a></code>  
-<code><a href="#" target="_blank"><img height="50" src="https://en.wikipedia.org/wiki/File:Amazon_Web_Services_Logo.svg"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-ar21.svg"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzwXG2Kiv2veSdqWMU_Kcp8HQtbhAxZi3u4g&usqp=CAU"></a></code>
+## 🛠️ Tech Stack
 
-<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=58A6FF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=58A6FF)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&color=58A6FF)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=58A6FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=58A6FF)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=58A6FF)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&color=58A6FF)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=58A6FF)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&color=58A6FF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=58A6FF)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&color=58A6FF)
 
-<br/>
+---
 
-<a href="https://github.com/aditinikam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditinikam&theme=radical&show_icons=true" />
+## 📊 GitHub Stats
 
-</a>
-
-<br/>
-
-<h3>Profiles </h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditi-nikam21"><img alt="LINKEDIN" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> 
-  <a href="https://www.hackerrank.com/aditirnikam21"><img height="60" alt="hackerrank" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/22174532/hackerrank-logo.jpg"></a> 
-  <a href="https://www.codechef.com/users/aditi_n"><img height="60" alt="codechef" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"></a> 
-  <a href="https://www.instagram.com/aditi_nikam21"><img alt="instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a> 
-  <a href="mailto:aditirnikam21@gmail.com"><img alt="email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
-   <a href="https://twitter.com/NikamAditi/"><img alt="twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"></a> 
-  
-
+<p>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=aditinikam&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=667799&icon_color=58A6FF" />
+       
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditinikam&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=667799&icon_color=58A6FF" />
 </p>
+
+---
+
+## 📚 Currently Learning
+
+- 📖 **Distributed Systems** and **Cloud Computing** as part of my MCS coursework  
+- 🤖 Exploring **Machine Learning & NLP**  
+- 🏗️ Improving my knowledge of **System Design**  
+
+---
+
+## ⚡ Fun Facts
+
+- 🩰 I’ve been a **Kathak dancer** and completed the *Madhyama Pratham* exam with distinction  
+- 🕵️‍♀️ I enjoy solving **debugging puzzles** more than writing new code  
+- 🏀 Outside tech, you’ll probably find me on a **basketball court**  
+
+---
+
+## 🌐 Profiles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=58A6FF)](https://www.linkedin.com/in/aditi-nikam21)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&color=58A6FF)](https://www.hackerrank.com/aditirnikam21)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&color=58A6FF)](https://www.codechef.com/users/aditi_n)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=58A6FF)](https://twitter.com/NikamAditi)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=58A6FF)](mailto:aditirnikam21@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=58A6FF)](https://www.instagram.com/aditi_nikam21)
+
+---
+
+⭐️ From [Aditi Nikam](https://github.com/aditinikam)
