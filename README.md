@@ -1,8 +1,9 @@
 # Hey there, I'm Aditi Nikam 👋
 
 ## 🚀 About Me
-I’m a **Master of Computer Science student at UIUC** with a B.Tech in Computer Engineering from Vishwakarma Institute of Information Technology, Pune.  
-My interests lie in **AI/ML, Natural Language Processing, Cloud Computing, and Android Development**.  
+I’m a **Master of Computer Science student at UIUC** with a B.Tech in Computer Engineering from Vishwakarma Institute of Information Technology, Pune.
+
+My expertise and interests lie in Data Engineering, Big Data, Cloud Computing, and AI Orchestration. I previously worked as a Software Engineer at JPMorgan Chase and recently completed a Data Platform & AI Internship at Honeywell, alongside open-source contributions through Google Summer of Code.  
 
 ✨ Traits: Perseptive, Quick Learner, Collaborator, and Problem Solver.  
 
@@ -39,7 +40,7 @@ My interests lie in **AI/ML, Natural Language Processing, Cloud Computing, and A
 ## 📚 Currently Learning
 
 - 📖 **Distributed Systems** and **Cloud Computing** as part of my MCS coursework  
-- 🤖 Exploring **Machine Learning & NLP**  
+- 🤖 Building **Agentic Workflows** and utilizing Knowledge Graphs for semantic retrieval
 - 🏗️ Improving my knowledge of **System Design**  
 
 ---
@@ -48,7 +49,8 @@ My interests lie in **AI/ML, Natural Language Processing, Cloud Computing, and A
 
 - 🩰 I’ve been a **Kathak dancer** and completed the *Madhyama Pratham* exam with distinction  
 - 🕵️‍♀️ I enjoy solving **debugging puzzles** more than writing new code  
-- 🏀 Outside tech, you’ll probably find me on a **basketball court**  
+- 🏀 Outside tech, you’ll probably find me on a **basketball court**
+- 🎲 Off the screen, you can also find me playing social deduction **board games**.
 
 ---
 
@@ -63,4 +65,4 @@ My interests lie in **AI/ML, Natural Language Processing, Cloud Computing, and A
 
 ---
 
-⭐️ From [Aditi Nikam](https://github.com/aditinikam)
+From [Aditi Nikam](https://github.com/aditinikam)
